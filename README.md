@@ -2,7 +2,7 @@
 
 🚀 **Cloud & DevOps Engineer**  
 Passionate about automating infrastructure, building CI/CD pipelines, and managing scalable cloud-native systems.
-
+/* currently learning Devops technology */
 ---
 
 ## 🧑‍💻 About Me
