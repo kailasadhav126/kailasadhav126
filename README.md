@@ -105,9 +105,9 @@ Passionate about automating infrastructure, building CI/CD pipelines, and managi
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *Add your LinkedIn link here*
-- 🧑‍💻 GitHub: *https://github.com/your-username*
-- 📧 Email: *your-professional-email@example.com*
+- 💼 LinkedIn: https://www.linkedin.com/in/kailas-adhav-28592625b/
+- 🧑‍💻 GitHub: https://github.com/kailasadhav126
+- 📧 Email: kailasadhav126@gmail.com
 
 ---
 
