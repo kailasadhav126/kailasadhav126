@@ -3,49 +3,6 @@
 
 - <h3 align="center">🔭 I’m currently working on **AWS Cloud Infrastructure & DevOps Projects**</h3>
 
-🧑‍💻 About Me:-
-- 🎓 IT Engineering Graduate
-- ☁️ Aspiring **Cloud & DevOps Engineer**
-- 🛠️ Hands-on experience with Linux administration, automation, containers, CI/CD, and monitoring
-- 📈 Focused on reliability, scalability, and automation
-- 🌱 Continuously learning cloud-native and DevOps best practices
-
-## 🛠️ Skills & Technologies
-
-### 🔹 Operating Systems
-
-* 🐧 Linux (Ubuntu, RHEL)
-* 🪟 Windows (Basic Server Administration)
-
-🏗️ Infrastructure:-
-<br>
-AWS → Cloud platform to create and manage servers, storage, and networking
-<br>
-Terraform → IaC tool to automate and manage infrastructure using code
-
-### 🔹 Scripting & Automation
-
-* 💻 Shell Scripting (Bash)
-* ⏰ Cron Jobs (Task Scheduling)
-* ⚙️ Automation Scripts for System Tasks
-
-  ### 🔹 Version Control & Collaboration
-
-* Git (Version Control System)
-* GitHub & GitLab (Code Hosting Platforms)
-* Branching Strategies (Git Flow, Feature Branching)
-* Pull Requests (PRs) & Code Reviews
-* Merge Conflict Resolution
-
-### 🔹 CI/CD Tools & Practices
-
-* Jenkins (Automation Server)
-* GitHub Actions & GitLab CI/CD
-* Designing Automated CI/CD Pipelines
-* Continuous Integration (Build & Test Automation)
-* Continuous Deployment & Delivery
-* Pipeline Monitoring & Optimization
-
 <h3 align="left">DevOps Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -95,6 +52,51 @@ Terraform → IaC tool to automate and manage infrastructure using code
   </a>&nbsp;&nbsp;&nbsp;
 
 </p>
+
+
+🧑‍💻 About Me:-
+- 🎓 IT Engineering Graduate
+- ☁️ Aspiring **Cloud & DevOps Engineer**
+- 🛠️ Hands-on experience with Linux administration, automation, containers, CI/CD, and monitoring
+- 📈 Focused on reliability, scalability, and automation
+- 🌱 Continuously learning cloud-native and DevOps best practices
+
+## 🛠️ Skills & Technologies
+
+### 🔹 Operating Systems
+
+* 🐧 Linux (Ubuntu, RHEL)
+* 🪟 Windows (Basic Server Administration)
+
+🏗️ Infrastructure:-
+<br>
+AWS → Cloud platform to create and manage servers, storage, and networking
+<br>
+Terraform → IaC tool to automate and manage infrastructure using code
+
+### 🔹 Scripting & Automation
+
+* 💻 Shell Scripting (Bash)
+* ⏰ Cron Jobs (Task Scheduling)
+* ⚙️ Automation Scripts for System Tasks
+
+  ### 🔹 Version Control & Collaboration
+
+* Git (Version Control System)
+* GitHub & GitLab (Code Hosting Platforms)
+* Branching Strategies (Git Flow, Feature Branching)
+* Pull Requests (PRs) & Code Reviews
+* Merge Conflict Resolution
+
+### 🔹 CI/CD Tools & Practices
+
+* Jenkins (Automation Server)
+* GitHub Actions & GitLab CI/CD
+* Designing Automated CI/CD Pipelines
+* Continuous Integration (Build & Test Automation)
+* Continuous Deployment & Delivery
+* Pipeline Monitoring & Optimization
+
 
 
 🤝 Connect With Me
