@@ -53,14 +53,29 @@
 
 </p>
 
-
 🧑‍💻 About Me:-
-- 🎓 IT Engineering Graduate
-- ☁️ Aspiring **Cloud & DevOps Engineer**
-- 🛠️ Hands-on experience with Linux administration, automation, containers, CI/CD, and monitoring
-- 📈 Focused on reliability, scalability, and automation
-- 🌱 Continuously learning cloud-native and DevOps best practices
 
+🎓 IT Engineering Graduate
+☁️ Aspiring Cloud & DevOps Engineer
+🏅 Red Hat Certified System Administrator (RHCSA)
+🏅 AWS Certified Solutions Architect
+🛠️ Hands-on experience with Linux administration, automation, containers, CI/CD, infrastructure setup, and monitoring
+📈 Focused on reliability, scalability, and automation
+🌱 Continuously learning cloud-native and DevOps best practices 🚀
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="180"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" width="180"/>
+</p>
+
+
+  
+<p align="center">
+  <b>AWS Certified Solutions Architect</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Red Hat Certified System Administrator (RHCSA)</b>
+</p>
 ## 🛠️ Skills & Technologies
 
 ### 🔹 Operating Systems
@@ -104,10 +119,17 @@ Terraform → IaC tool to automate and manage infrastructure using code
 - 💼 LinkedIn: https://www.linkedin.com/in/kailas-adhav-28592625b/
 - 🧑‍💻 GitHub: https://github.com/kailasadhav126
 - 📧 Email: kailasadhav126@gmail.com
-- 
+
 <br>
  📌 Note
 This profile represents my continuous learning journey in **Cloud & DevOps Engineering**.  
 Feel free to explore my repositories and connect with me!
 
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="400"/>
+</p>
 
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="100"/>
+</p>
