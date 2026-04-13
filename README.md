@@ -17,6 +17,12 @@
 * 🐧 Linux (Ubuntu, RHEL)
 * 🪟 Windows (Basic Server Administration)
 
+🏗️ Infrastructure:-
+<br>
+AWS → Cloud platform to create and manage servers, storage, and networking
+<br>
+Terraform → IaC tool to automate and manage infrastructure using code
+
 ### 🔹 Scripting & Automation
 
 * 💻 Shell Scripting (Bash)
@@ -96,6 +102,8 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/kailas-adhav-28592625b/
 - 🧑‍💻 GitHub: https://github.com/kailasadhav126
 - 📧 Email: kailasadhav126@gmail.com
+- 
+<br>
  📌 Note
 This profile represents my continuous learning journey in **Cloud & DevOps Engineering**.  
 Feel free to explore my repositories and connect with me!
